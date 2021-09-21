@@ -11,7 +11,8 @@ First of all, the required Image will be selected.
 
 
 For this, a GUI has been created with Tkinter (Figure 2). File selection is performed with the "Select File" button on the page opened by opening Tkinter. After the photo is selected, a new window (Figure 3) opens and the "Start" button is clicked to start the process.
-<img width="204" alt="Screen Shot 2021-09-21 at 08 17 30" src="https://user-images.githubusercontent.com/44753206/134115494-8fe9f850-59a5-439c-813d-6f133c4f0e64.png">
+<img width="411" alt="Screen Shot 2021-09-21 at 08 19 26" src="https://user-images.githubusercontent.com/44753206/134115612-2ec053dd-3294-4612-b994-046c9a23fa59.png">
+
 
 
 ### Character Detection
@@ -25,3 +26,7 @@ Using 8-connected labeling gives information about labels. With that, labels can
 Results in png and txt files (Figure 4).
 
 <img width="204" alt="Screen Shot 2021-09-21 at 08 17 30" src="https://user-images.githubusercontent.com/44753206/134115322-af3585fb-98ed-426e-9721-42ea7e1647a5.png">
+
+<img width="708" alt="Screen Shot 2021-09-21 at 08 21 03" src="https://user-images.githubusercontent.com/44753206/134115639-d45539c4-a86f-4f98-b9ff-16bc694818f9.png">
+
+
